@@ -1,0 +1,20 @@
+Created with the Iris Calculator
+http://iris-calculator.com
+--------------------------
+User: 
+Dimensions of your iris diaphragm
+---------------------------------
+A. Outside wall diameter: 213.307 mm
+B. Max aperture: 110 mm
+C. Min aperture: 5 mm
+D. Number of blades: 7
+E. Blade overlap: 1 mm
+F. Outer wall thickness: 5 mm
+G. Blade width: 45.653 mm
+H. Blade/Outer wall gap: 1 mm
+I. Rotational movement: 80.015 degrees
+J. Pin size: 4 mm
+K. Pin clearance: 0.25 mm
+L. Pin hole separation: 51.429 degrees
+M. Blade thickness: 1 mm
+N. Hole PCD: 155.653 mm
